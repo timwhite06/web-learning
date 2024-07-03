@@ -30,7 +30,7 @@ Reconciliation is the process of reflecting changes from a frameworks' virtual D
 
 #### Diffing Algorithm's assumptions
 - Two elements of different types will produce different trees.
-- When we have a list of child elements which often changes, we should provide a unique "key" as a prop [Note](./react-performance).
+- When we have a list of child elements which often changes, we should provide a unique "key" as a prop [Note](./react-performance.md).
 
 ### Rendering
 - Most of the actual implementation lives in the renderers...
